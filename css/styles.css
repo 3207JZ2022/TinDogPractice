@@ -7,6 +7,7 @@ body{
 .container-fluid {
     padding:2% 11% 0%;
     /* padding: 0.1% 8%; */
+    position: relative;
 }
 
 .colored-section{
